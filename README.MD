@@ -20,4 +20,4 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 * Se agrega carpeta de listas con archivo .py
 * Se agrega a la carpeta funciones el archivo .py con la resolución.
 * Se incluyen en punto 06 Recursividad el archivo .py con los ejercicios resueltos
-
+* Se renombran carpetas de la misma manera que e orden actual de la plataforma.
