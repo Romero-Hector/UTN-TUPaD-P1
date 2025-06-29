@@ -18,4 +18,5 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 > 
 > ¡Recuerda mantener actualizado tu repositorio!
 * Se agrega carpeta de listas con archivo .py
+* Se agrega a la carpeta funciones el archivo .py con la resollución.
 
