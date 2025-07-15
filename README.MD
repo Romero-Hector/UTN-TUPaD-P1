@@ -22,3 +22,4 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 * Se incluyen en punto 06 Recursividad el archivo .py con los ejercicios resueltos
 * Se renombran carpetas de la misma manera que e orden actual de la plataforma.
 * Se agrega archivo .py con resolución de ejercicios unidad 10 Datos Avanzados
+*14/07/2025 - Se agrega Trabajo Práctico Integredor
